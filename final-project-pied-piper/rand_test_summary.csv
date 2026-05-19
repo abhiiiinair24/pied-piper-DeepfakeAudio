@@ -1,0 +1,2 @@
+total_samples,num_fake_predicted,num_real_predicted,mean_probability
+39768,32700,7068,0.8163088368944281
